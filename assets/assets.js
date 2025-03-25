@@ -100,18 +100,19 @@ export const workData = [
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: 'https://oasis-portfolio.vercel.app/' },
-    { icon: assets.mobile_icon, title: 'Mobile app', description: 'Mobile app development involves creating software for mobile devices...', link: 'https://e-ecommerce-nu.vercel.app/' },
-    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: 'https://real-estate-web-app-2gw.pages.dev/' },
+    { icon: assets.web_icon, title: 'Frontend Development', description: 'As a frontend developer, I craft highly interactive and visually appealing web interfaces that enhance user experiences. With expertise in React, Next.js, and cutting-edge tools, I ensure seamless performance and responsive designs. From landing pages to dynamic applications, I bring your vision to life with precision and creativity....', link: '' },
+    { icon: assets.mobile_icon, title: 'Backend Development', description: 'I specialize in enhancing digital applications by building robust and scalable backend infrastructures. My expertise includes designing efficient database architectures, developing high-performance APIs, and configuring servers to optimize performance, security, and scalability. I ensure your applications can seamlessly handle high traffic and complex data management challenges, delivering a reliable and future-ready solution...', link: '' },
+    { icon: assets.ui_icon, title: 'Database Management', description: 'I am an expert in managing and optimizing database systems to deliver exceptional performance, reliability, and scalability. Skilled in both SQL and NoSQL databases, I design robust schemas, write efficient queries, and implement best practices for data integrity and security. My approach ensures your data is managed effectively, enabling seamless operations and data-driven decision-making....', link: '' },
+
     // { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
 ]
 
 export const infoList = [
     { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript React Js, Next Js , Express js',link:"https://real-estate-web-app-2gw.pages.dev/" },
-    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'BCA in Computer Science' },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
+    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'Bachelor of Computer Science        Aisect univercity hazaribhag September 2022-2025'} ,
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects'  }
 ];
 
 export const toolsData = [
-    assets.vscode, assets.firebase, assets.mongodb, assets.figma, assets.git
+    assets.vscode, assets.mongodb, assets.figma, assets.git
 ];
